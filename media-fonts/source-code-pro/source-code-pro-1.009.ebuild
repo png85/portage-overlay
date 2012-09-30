@@ -1,7 +1,7 @@
 inherit font
 
 DESCRIPTION="Adobe Source Code Pro font"
-HOMEPAGE="http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html"
+HOMEPAGE="http://blogs.adobe.com/typblography/2012/09/source-code-pro.html"
 SRC_URI="mirror://sourceforge/sourcecodepro.adobe/SourceCodePro_FontsOnly-1.009.zip"
 LICENSE="OFL-1.1"
 SLOT="0"
