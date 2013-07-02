@@ -1,6 +1,7 @@
 #
 # Gentoo ebuild for libdsnutil
 #
+EAPI=2
 inherit cmake-utils
 
 DESCRIPTION="#das-system Networks utility library"
