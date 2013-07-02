@@ -1,6 +1,7 @@
 #
 # Gentoo ebuild for libdsncompat
 #
+EAPI=2
 inherit cmake-utils
 
 DESCRIPTION="#das-system Networks compatibility library"
